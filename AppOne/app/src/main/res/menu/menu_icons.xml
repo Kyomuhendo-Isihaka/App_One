@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/house_siding"
+        android:title="Home"
+        />
+
+    <item android:id="@+id/menu_experience"
+        android:icon="@drawable/stacked_bar_chart"
+        android:title="Experience"
+        />
+    <item
+        android:id="@+id/menu_post"
+        android:enabled="true"
+        android:title=""/>
+
+    <item android:id="@+id/menu_wallet"
+        android:icon="@drawable/balance_wallet"
+        android:title="Wallet"       />
+
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile"
+        />
+
+
+
+
+</menu>
